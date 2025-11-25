@@ -1,0 +1,7 @@
+{
+  "name": "PADH.AI",
+  "description": "A next-generation AI educational platform designed for clarity, focus, and personalized learning.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
